@@ -1,0 +1,2 @@
+langchain==0.0.24
+python==3.9.7
